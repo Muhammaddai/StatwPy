@@ -1,4 +1,5 @@
 # Statistics with Python Specialization
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Muhammaddai/StatwPy/HEAD)
 
 This repo contains everything I learnt and did during the specialization training in Statistics with Python Specialization offered by the University of Michigan on Coursera.
 
